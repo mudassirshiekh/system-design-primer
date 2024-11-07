@@ -3,6 +3,7 @@
 **Help [translate](TRANSLATIONS.md) this guide!**
 
 # The System Design Primer
+# By Mudassir Alam
 
 <p align="center">
   <img src="images/jj3A5N8.png">
